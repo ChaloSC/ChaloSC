@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalosc&theme=tokyonight&row=2&column=-1" alt="chalosc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalosc&row=2&column=-1&theme=tokyonight" alt="chalosc" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
