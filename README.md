@@ -2,6 +2,7 @@
 [![ChaloSC's github stats](https://github-readme-stats.vercel.app/api?username=ChaloSC&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 ![ChaloSC's](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaloSC&hide_progress=true)
 [![ChaloSC's](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaloSC&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![ChaloSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaloSC&show_icons=true&theme=transparent)
 <!--
 **ChaloSC/ChaloSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
